@@ -1,0 +1,8 @@
+# Test file: .tool/checkpoints/files/12014d18-69eb-48bf-8eb2-fc8400f66dd4/c132d8735f06d0c5dc692f82b1bf89905cca85e1fab7199615745c9d4ad0588a@v4
+# This file contains test data for secret scanning
+
+SECRET_KEY="AKIAIOSFODNN7EXAMPLE"
+API_ENDPOINT="https://api.example.com/v1"
+
+# Additional test content
+TEST_DATA="sample"
